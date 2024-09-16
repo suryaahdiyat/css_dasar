@@ -1,0 +1,6 @@
+font-weight: Mengatur ketebalan font (normal, bold).
+font-style: Mengatur gaya font (normal, italic).
+text-align: Mengatur perataan teks (left, center, right, justify).
+text-decoration: Mengatur dekorasi teks (underline, overline, line-through).
+line-height: Mengatur jarak antar baris teks.
+Google Fonts: Cara menambahkan font eksternal.

@@ -1,0 +1,20 @@
+
+p {
+  color: blue;
+}
+
+<p class="highlight">Teks dengan kelas.</p>
+
+.highlight {
+  background-color: yellow;
+}
+
+<p id="intro">Teks dengan ID.</p>
+
+#intro {
+  font-size: 20px;
+}
+
+a[target="_blank"] {
+  color: red;
+}

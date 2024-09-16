@@ -1,0 +1,15 @@
+ini adalah inline css
+<p style="color: blue;">Teks berwarna biru.</p>
+
+ini adalah internal css
+<head>
+  <style>
+    p {
+      color: blue;
+    }
+  </style>
+</head>
+
+ini adalah external css
+<!-- Di dalam <head> -->
+<link rel="stylesheet" href="style.css">

@@ -1,0 +1,27 @@
+p {
+  font-size: 30px;
+}
+.f1 {
+  font-family: serif;
+}
+.f2 {
+  font-family: sans-serif;
+}
+.f3 {
+  font-family: system-ui, sans-serif;
+}
+.f4 {
+  font-style: italic;
+}
+.f5 {
+  text-decoration: underline;
+}
+.f6 {
+  font-size: 50px;
+}
+.f7 {
+  line-height: 100px;
+}
+.f8{
+  /* isi */
+}

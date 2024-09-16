@@ -1,0 +1,38 @@
+<head>
+  <style>
+    .box-outside{
+      width: 600px;
+      height: 600px;
+      border: 1px solid black;
+    }
+    .box-inside{
+      width: 100px;
+      height: 100px;
+      background-color: blue;
+      padding: 10px 20px 30px 40px;
+      margin: 10px;
+    }
+    .box-sizing-b{
+      box-sizing: border-box;
+    }
+    .box-sizing-c{
+      box-sizing: content-box;
+    }
+  </style>
+</head>
+<body>
+  <div class="box-outside">
+    <div class="box-inside">
+      <div style="width: 100%;height: 100%;background-color: brown;"></div>
+    </div>
+    <div class="box-inside box-sizing-b">
+      <div style="width: 100%;height: 100%;background-color: brown;"></div>
+    </div>
+    <div class="box-inside box-sizing-c">
+      <div style="width: 100%;height: 100%;background-color: brown;"></div>
+    </div>
+    <div style="width: 100px;height: 100px;background-color: brown;">
+      <!-- <div style="width: 100%;height: 100%;background-color: brown;"></div> -->
+    </div>
+  </div>
+</body>

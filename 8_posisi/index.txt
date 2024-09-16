@@ -1,0 +1,8 @@
+position:
+static: Posisi default, mengikuti alur dokumen.
+relative: Posisi relatif terhadap posisi normalnya.
+absolute: Posisi relatif terhadap parent yang memiliki posisi relatif atau absolute.
+fixed: Posisi relatif terhadap viewport, tidak bergerak saat di-scroll.
+sticky: Posisi antara relative dan fixed.
+Properti Tambahan: top, right, bottom, left untuk mengatur posisi.
+Z-index: Mengatur urutan tumpukan elemen.

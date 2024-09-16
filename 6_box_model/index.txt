@@ -1,0 +1,4 @@
+Content: Konten teks atau gambar.
+Padding: Ruang di dalam border, mengelilingi konten.
+Border: Garis di sekitar padding dan konten.
+Margin: Ruang di luar border, memisahkan elemen dengan elemen lain.

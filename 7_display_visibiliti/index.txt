@@ -1,0 +1,8 @@
+display: Mengatur tipe tampilan elemen.
+block: Elemen menempati satu baris penuh.
+inline: Elemen hanya menempati ruang sesuai kontennya.
+inline-block: Gabungan sifat block dan inline.
+none: Elemen tidak ditampilkan.
+visibility:
+visible: Elemen terlihat (default).
+hidden: Elemen tidak terlihat tetapi tetap memakan ruang.
