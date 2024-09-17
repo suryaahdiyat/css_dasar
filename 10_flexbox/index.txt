@@ -1,0 +1,5 @@
+Arah Utama dan Arah Silang: flex-direction mengatur arah elemen (row, column).
+Justify Content: Mengatur perataan di arah utama (start, center, end, space-between).
+Align Items: Mengatur perataan di arah silang.
+Flex Wrap: Mengatur apakah elemen membungkus saat ruang tidak cukup.
+Order: Mengubah urutan tampilan elemen.
