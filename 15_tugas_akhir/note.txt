@@ -1,0 +1,13 @@
+Tugas:
+Buat halaman web yang memiliki:
+Header dengan navigasi.
+Hero section dengan gambar latar.
+Bagian konten dengan teks dan gambar.
+Layout grid untuk menampilkan beberapa item.
+Footer dengan informasi kontak.
+Terapkan responsivitas sehingga halaman terlihat baik di desktop dan mobile.
+Tambahkan interaktivitas dengan hover effect dan animasi sederhana.
+Pendekatan:
+Rencanakan struktur HTML terlebih dahulu.
+Terapkan styling CSS secara bertahap.
+Uji halaman di berbagai ukuran layar.
